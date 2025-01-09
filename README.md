@@ -1,0 +1,1 @@
+This repository contains example code demonstrating a common error in Python when calculating the average of a list of numbers:  handling the case where the input list is empty.  The `bug.py` file shows the initial flawed code, while `bugSolution.py` provides a more robust and reliable solution.
